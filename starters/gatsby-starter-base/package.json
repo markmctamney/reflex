@@ -1,6 +1,6 @@
 {
   "name": "gatsby-starter-base",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "private": true,
   "license": "MIT",
   "scripts": {
@@ -12,9 +12,9 @@
     "preview": "gatsby build && gatsby serve"
   },
   "dependencies": {
-    "@reflexjs/gatsby-plugin-metatags": "^0.2.8",
-    "@reflexjs/gatsby-theme-base": "^0.3.12",
-    "@reflexjs/gatsby-theme-post": "^0.6.8",
+    "@reflexjs/gatsby-plugin-metatags": "^0.2.9",
+    "@reflexjs/gatsby-theme-base": "^0.3.13",
+    "@reflexjs/gatsby-theme-post": "^0.6.9",
     "gatsby": "^2.22.11",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",

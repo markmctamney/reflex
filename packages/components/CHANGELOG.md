@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.3.3](https://github.com/reflexjs/reflex/compare/@reflexjs/components@0.3.2...@reflexjs/components@0.3.3) (2020-10-18)
+
+
+### Bug Fixes
+
+* theme-ui to peer dependency ([681a204](https://github.com/reflexjs/reflex/commit/681a204065aa26c620d904d1e04c2fe00d61b86c))
+
+
+
+
+
 ## [0.3.2](https://github.com/reflexjs/reflex/compare/@reflexjs/components@0.3.1...@reflexjs/components@0.3.2) (2020-09-21)
 
 

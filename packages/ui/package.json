@@ -1,7 +1,7 @@
 {
   "name": "@reflexjs/ui",
   "description": "A tiny library for creating and styling UI components with Theme UI.",
-  "version": "0.4.3",
+  "version": "0.4.4",
   "sideEffects": false,
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
@@ -25,14 +25,14 @@
     "directory": "packages/ui"
   },
   "peerDependencies": {
-    "react": "^16.13.1",
-    "@theme-ui/core": "^0.4.0-rc.5"
+    "@theme-ui/core": "^0.4.0-rc.5",
+    "react": "^16.13.1"
   },
   "dependencies": {
     "@emotion/is-prop-valid": "^0.8.8"
   },
   "devDependencies": {
-    "csstype": "^3.0.2",
-    "@theme-ui/core": "^0.4.0-rc.5"
+    "@theme-ui/core": "^0.4.0-rc.5",
+    "csstype": "^3.0.2"
   }
 }
